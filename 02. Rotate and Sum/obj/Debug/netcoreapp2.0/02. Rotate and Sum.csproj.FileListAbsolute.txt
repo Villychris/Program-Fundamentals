@@ -1,0 +1,11 @@
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.deps.json
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.runtimeconfig.json
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.runtimeconfig.dev.json
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.dll
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.pdb
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.AssemblyInfoInputs.cache
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.AssemblyInfo.cs
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.dll
+C:\Users\villy\source\repos\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.pdb

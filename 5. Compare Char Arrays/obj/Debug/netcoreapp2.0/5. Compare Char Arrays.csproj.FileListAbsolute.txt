@@ -1,0 +1,11 @@
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.deps.json
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.runtimeconfig.json
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.runtimeconfig.dev.json
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.dll
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.pdb
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.AssemblyInfoInputs.cache
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.AssemblyInfo.cs
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.dll
+C:\Users\villy\source\repos\Arrays - Exercises\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.pdb
